@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sidak Vasu | Business & Analytics Portfolio</title>
+    <meta name="description" content="Portfolio of Sidak Vasu - BBA at IIM Rohtak | Strategy | Financial Modeling | Analytics">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Sidak Vasu</h1>
+        <p>BBA | IIM Rohtak | Strategy & Analytics</p>
+        <a href="#projects" class="btn">View Projects</a>
+        <a href="assets/resume.pdf" class="btn secondary" download>Download Resume</a>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I build structured financial models and strategic analysis frameworks 
+            that convert data into actionable business insights.
+        </p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <div class="project">
+            <h3>Market Entry Strategy</h3>
+            <p>Built 5-year revenue model and identified 18% cost optimization opportunity.</p>
+            <p><strong>Tools:</strong> Excel, Power BI</p>
+        </div>
+
+        <div class="project">
+            <h3>Financial Dashboard</h3>
+            <p>Created interactive KPI dashboard for revenue forecasting.</p>
+            <p><strong>Tools:</strong> Power BI, SQL</p>
+        </div>
+
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: vasu8521@gmail.com</p>
+        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Sidak Vasu</p>
+    </footer>
+
+</body>
+</html>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: #f9f9f9;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn.secondary {
+    background: #333;
+}
+
+section {
+    margin: 50px 0;
+}
+
+.project {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
+# Sidak Vasu Portfolio
+
+This portfolio showcases my work in strategy, analytics, and financial modeling.
+
+## Tech Stack
+- HTML
+- CSS
+
+## Live Deployment
+Deployed using Kuberns AI Platform.
